@@ -11,3 +11,5 @@ Registering in this repository my exercises from [HackerRank](https://www.hacker
 - [birthday-cake-candles](https://www.hackerrank.com/challenges/birthday-cake-candles)
 - [time-conversion](https://www.hackerrank.com/challenges/time-conversion)
 - [grading](https://www.hackerrank.com/challenges/grading)
+- [bubble-sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?isFullScreen=true)
+- [lonely-integer](https://www.hackerrank.com/challenges/lonely-integer/problem?isFullScreen=true)
